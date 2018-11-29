@@ -5,4 +5,3 @@
 ### Line 5
 ### Line 6 from master
 ### Line 7 from master 2
-### Line 8 from master
